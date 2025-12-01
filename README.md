@@ -1,27 +1,22 @@
 # Lemonlime Linux Documentation
 
-This repository hosts all official documentation for Lemonlime Linux.
+Central documentation repository for Lemonlime Linux.
 
 ## About
-
-Find user guides, developer/contributor instructions, design documents, and the Lemonlime Linux roadmap here!
+Includes user guides, developer documents, contributor instructions, architectural notes, and the project roadmap.
 
 ## Sections
+- Getting Started  
+- Installation  
+- Building from Source  
+- Contribution Guidelines  
+- Project Roadmap  
 
-- Getting Started
-- Installation
-- Building from Source
-- Contribution Guidelines
-- Project Roadmap
-
-## Contribute
-
-We welcome PRs to improve our docs! See [CONTRIBUTING.md](CONTRIBUTING.md).
+## Contributing
+Pull requests to improve documentation are welcome. See CONTRIBUTING.md.
 
 ## Project Roadmap
-
-See the [Lemonlime Linux v0.1 Roadmap](https://github.com/lemonlime-linux/docs/issues/1) for high-level goals, milestones, and progress across all repositories.
+See the [Lemonlime Linux v0.1 Roadmap](https://github.com/lemonlime-linux/docs/issues/1).
 
 ## License
-
 [CC0-1.0](LICENSE)
