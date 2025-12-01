@@ -1,0 +1,8 @@
+# Build outputs (e.g., Sphinx, MkDocs, etc.)
+/_site/
+/_build/
+
+# Editor/OS junk
+.DS_Store
+Thumbs.db
+*~
